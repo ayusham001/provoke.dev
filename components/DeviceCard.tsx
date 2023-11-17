@@ -1,4 +1,4 @@
-function DeviceCard({device}) {
+function DeviceCard({device}: { device: string })  {
   const cardStyle = {
     width: '125px', 
     height: '125px', 
