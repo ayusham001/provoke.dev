@@ -8,7 +8,7 @@ export default async function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className="h-full bg-gray-900">
+    <html lang="en" className="h-full">
       <body className="h-full">
       <SessionProvider>
         {children}

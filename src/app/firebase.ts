@@ -6,12 +6,13 @@ import { getFirestore,  } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAtk_PO-mC9xEZsN8aatyEHdLFkZvt_hTo",
-  authDomain: "next-auth-username-passwords.firebaseapp.com",
-  projectId: "next-auth-username-passwords",
-  storageBucket: "next-auth-username-passwords.appspot.com",
-  messagingSenderId: "78794701925",
-  appId: "1:78794701925:web:d1baa091db025a1da61a8c"
+  apiKey: "AIzaSyCTD_5HHWs7atJantrRSwXMMXV4JK7d6oQ",
+  authDomain: "provokedev-decfb.firebaseapp.com",
+  projectId: "provokedev-decfb",
+  storageBucket: "provokedev-decfb.appspot.com",
+  messagingSenderId: "907011234896",
+  appId: "1:907011234896:web:85a8bc5407718a94158555",
+  measurementId: "G-EEPDRMS5T9"
 };
 
 // Initialize Firebase
